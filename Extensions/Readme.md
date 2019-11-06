@@ -7,7 +7,7 @@ The following samples and code snippets are provided with this package:
 2) PowerShell scripts to manage and gather Fusion Lifecycle related data in Vault
 
 ## PREREQUISITES
-*Autodesk Vault Professional*, *Autodesk Vault Data Standard* (a.k.a. VDS) and vaultFLC must be installed.
+*Autodesk Vault Professional*, *Autodesk Vault Data Standard* (a.k.a. VDS) and *vaultFLC* must be installed.
 
 ## INSTALLATION
 Clone or download the entire repository and copy folder structure and files to the Vault *Extensions* directory:
